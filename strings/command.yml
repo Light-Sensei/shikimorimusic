@@ -11,13 +11,13 @@
 # Commands in Every Language
 
 # Bot Commands
-PING_COMMAND : ["yping"]
-START_COMMAND : ["ystart"]
-HELP_COMMAND : ["yhelp"]
-SETTINGS_COMMAND : ["ysettings", "setting"]
-RELOAD_COMMAND : ["yadmincache", "reload"]
+PING_COMMAND : ["fping"]
+START_COMMAND : ["fstart"]
+HELP_COMMAND : ["fhelp"]
+SETTINGS_COMMAND : ["fsettings", "setting"]
+RELOAD_COMMAND : ["fadmincache", "reload"]
 GSTATS_COMMAND : ["gstats"]
-STATS_COMMAND : ["ystats"]
+STATS_COMMAND : ["fstats"]
 LANGUAGE_COMMAND : ["lang", "language", "langs"]
 
 # Play Commands
